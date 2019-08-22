@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://gist.github.com/104bbaa5a1f6c0e4de14161ab5ebf736.git": [
+      "GIST: BowlerStudio Hello World",
+      "1566483022215"
+    ]
+  },
   "studio-open-web": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
