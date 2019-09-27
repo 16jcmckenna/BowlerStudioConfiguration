@@ -11,6 +11,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/16jcmckenna/RBELabCustomParts.git:Nametags/NametagGenerator.groovy": [
+      "https://github.com/16jcmckenna/RBELabCustomParts.git",
+      "Nametags/NametagGenerator.groovy"
+    ],
     "none:C:\\Users\\jessm\\Downloads\\88e6495a8d18aef89cda8ccd3a2fc6e9-5d1414519a0e1c9d3aadbfdce7140cf1ff0f2f1d\\88e6495a8d18aef89cda8ccd3a2fc6e9-5d1414519a0e1c9d3aadbfdce7140cf1ff0f2f1d\\MyNametags.groovy": [
       "none",
       "C:\\Users\\jessm\\Downloads\\88e6495a8d18aef89cda8ccd3a2fc6e9-5d1414519a0e1c9d3aadbfdce7140cf1ff0f2f1d\\88e6495a8d18aef89cda8ccd3a2fc6e9-5d1414519a0e1c9d3aadbfdce7140cf1ff0f2f1d\\MyNametags.groovy"
